@@ -21,3 +21,17 @@
   padding-top: 80x;
   width: 80%;
 }
+
+.thumbnail {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.preview-kontent {
+  max-width: 600px;
+}
+
+.col-preview {
+  padding-left: 0px;
+  padding-right: 0px;
+}
